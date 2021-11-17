@@ -1,0 +1,3 @@
+[submodule "gitKatas"]
+	path = gitKatas
+	url = https://github.com/chetan-7-8/gitKatas.git
